@@ -4,6 +4,9 @@
 - An election commision in Colorado tasked Seth, Tom, and me to submit election audit results that includes: the winner of the election, how many votes each candidate received, the voter turnout of each county, the percentage of votes from each county out of the total number of votes cast, and the county with the highest turnout. 
 
 ## Results and Analysis
+
+![screenshot](https://user-images.githubusercontent.com/102992388/175430754-30a19e19-525f-48e4-b315-d01be20712eb.png)
+
 - How many votes were cast in this congressional election?
   - 369,711 votes were cast in this congressional election.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
