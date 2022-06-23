@@ -23,15 +23,14 @@
     - Raymon Anthony Doane received 11,606 votes, comprising 3.1% of the total vote   
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - Diana DeGette won the election, with 272,892 votes cast and 73.% of the total vote
-- Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-  -  This exact script can be used for any election as long as you sort the dataset to match the code (or you can modify your code slightly). If any dataset gives you a voter's county and candidate-choice information, you would be able to quickly sort that dataset to run this code. If the county information is in a different column, you would just need to adjust the following code:
+- Election-Audit Summary: 
+  -  This exact script can be used for any election as long as you sort the dataset to match the code (or you can modify your code slightly). If any dataset gives you a voter's county and candidate-choice information, you would be able to quickly sort that dataset to run this code. If the county information is in a different column, you would just need to adjust the following code and replace the number in the bracket to match the new column:
 
 ```
 county_name = row[1]
 ```
   
-  -   and replace the number in the bracket.
-  -   If the candidate name information is in a different column, you would adjust the following code:
+  -   If the candidate's name information is in a different column, you would adjust the following code:
 
 ```
 candidate_name = row[2]
