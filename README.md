@@ -15,7 +15,7 @@
     - There were 306,055 votes in Denver County, comprising 82.8% of the total vote
     - There were 24,801 votes in Arapahoe County, comprising 6.7% of the total vote
 -  Which county had the largest number of votes?
-  - Denver County 
+   - Denver County 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - There were 3 candidates in this election: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane.
     - Charles Casper Stockham received 85,213 votes, comprising 23.0% of the total vote
